@@ -4,3 +4,6 @@ Just like Hbonds calculations.
 DIffusion Coefficeint
 Comparision of Rmsd values of different simulations
 
+
+I edited this file, later March -24, 2025. 
+
